@@ -1,0 +1,66 @@
+_repo: A-Hero-of-Our-Time_913
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Wisdom, J. H.
+    gutenberg_agent_id: '470'
+    url: http://www.gutenberg.org/2009/agents/470
+  - agent_name: Murray, Marr
+    gutenberg_agent_id: '471'
+    url: http://www.gutenberg.org/2009/agents/471
+creator:
+  author:
+    agent_name: Lermontov, Mikhail Iurevich
+    aliases:
+    - Lermontov, Mikhayil Yurevich
+    - Лермонтов, Михаил Юрьевич
+    birthdate: 1814
+    deathdate: 1841
+    gutenberg_agent_id: '469'
+    url: http://www.gutenberg.org/2009/agents/469
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Lermontov
+description: "A Hero of Our Time (Russian: Герой нашего времени, Geroy nashego vremeni)\
+  \ is a novel by Mikhail Lermontov, written in 1839, published in 1840, and revised\
+  \ in 1841.\nIt is an example of the superfluous man novel, noted for its compelling\
+  \ Byronic hero (or antihero) Pechorin and for the beautiful descriptions of the\
+  \ Caucasus. There are several English translations, including one by Vladimir Nabokov\
+  \ and Dmitri Nabokov in 1958.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '913'
+  wikidata: Q1304649
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History, Military -- 1801-1917 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Caucasus -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- GITenberg
+title: A Hero of Our Time
+url: http://www.gutenberg.org/ebooks/913
+wikipedia:
+- https://fr.wikipedia.org/wiki/Un_h%C3%A9ros_de_notre_temps_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A8%D8%B7%D9%84_%D9%85%D9%86_%D8%B2%D9%85%D8%A7%D9%86%D9%86%D8%A7
+- https://nl.wikipedia.org/wiki/Een_held_van_onze_tijd
+- https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%BE%D0%B3%D0%BE_%D1%87%D0%B0%D1%81%D1%83_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
+- https://pl.wikipedia.org/wiki/Bohater_naszych_czas%C3%B3w_(powie%C5%9B%C4%87)
+- https://sr.wikipedia.org/wiki/%D0%88%D1%83%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3_%D0%B4%D0%BE%D0%B1%D0%B0
+- https://cs.wikipedia.org/wiki/Hrdina_na%C5%A1%C3%AD_doby
+- https://fa.wikipedia.org/wiki/%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86_%D8%B9%D8%B5%D8%B1_%D9%85%D8%A7
+- https://de.wikipedia.org/wiki/Ein_Held_unserer_Zeit
+- https://ru.wikisource.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_(%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2)
+- https://es.wikipedia.org/wiki/Un_h%C3%A9roe_de_nuestro_tiempo
+- https://da.wikipedia.org/wiki/Vor_Tids_Helt
+- https://hy.wikiquote.org/wiki/%D5%84%D5%A5%D6%80_%D5%AA%D5%A1%D5%B4%D5%A1%D5%B6%D5%A1%D5%AF%D5%AB_%D5%B0%D5%A5%D6%80%D5%B8%D5%BD%D5%A8
+- https://hy.wikipedia.org/wiki/%D5%84%D5%A5%D6%80_%D5%AA%D5%A1%D5%B4%D5%A1%D5%B6%D5%A1%D5%AF%D5%AB_%D5%B0%D5%A5%D6%80%D5%B8%D5%BD%D5%A8
+- https://en.wikipedia.org/wiki/A_Hero_of_Our_Time
+- https://it.wikipedia.org/wiki/Un_eroe_del_nostro_tempo_(Lermontov)
+- https://ru.wikiquote.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8
+- https://hr.wikipedia.org/wiki/Junak_na%C5%A1eg_doba
+- https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8
+- https://sh.wikipedia.org/wiki/Junak_na%C5%A1eg_doba
