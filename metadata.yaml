@@ -1,5 +1,5 @@
 _repo: A-Hero-of-Our-Time_913
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Wisdom, J. H.
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Murray, Marr
     gutenberg_agent_id: '471'
     url: http://www.gutenberg.org/2009/agents/471
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lermontov, Mikhail Iurevich
@@ -25,6 +28,8 @@ description: "A Hero of Our Time (Russian: Герой нашего времен�
   \ Byronic hero (or antihero) Pechorin and for the beautiful descriptions of the\
   \ Caucasus. There are several English translations, including one by Vladimir Nabokov\
   \ and Dmitri Nabokov in 1958.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/913#A-Hero-of-Our-Time
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
